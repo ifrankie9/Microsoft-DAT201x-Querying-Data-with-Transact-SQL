@@ -1,57 +1,36 @@
 SELECT O.OrderID, OD.UnitPrice 
-
 FROM Dbo.Orders AS O
-
 JOIN Dbo.[Order Details] AS OD
-
 ON O.OrderID = OD.OrderID
 
 
-
 SELECT O.OrderID, E.FirstName
-
 FROM Dbo.Orders AS O
-
 JOIN Dbo.Employees AS E
-
 ON O.EmployeeID = E.EmployeeID
 
 
-
 SELECT E.EmployeeID, T.TerritoryDescription
-
 FROM Dbo.Employees AS E
-
 JOIN Dbo.EmployeeTerritories AS ET
-
 ON E.EmployeeID = ET.EmployeeID
-
 JOIN Dbo.Territories AS T
-
 ON ET.TerritoryID = T.TerritoryID
-
 ORDER BY E.EmployeeID, T.TerritoryDescription
 
 
-
 SELECT Country FROM Dbo.Customers
-
 UNION 
-
 SELECT Country FROM Dbo.Suppliers
-
 ORDER BY Country
 
 
-
 SELECT Country FROM Dbo.Customers
-
 UNION ALL
 
+
 SELECT Country FROM Dbo.Suppliers
-
 ORDER BY Country;
-
 
 
 SELECT ROUND(UnitPrice, 0) as UnitPrice
