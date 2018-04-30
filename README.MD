@@ -7,7 +7,7 @@
 <p>This course includes 11 Modules and a final Assessment, all data excrise and exam taken in Datacamp.</p>
 <p>Module 1: <b>Introduction to Transact-SQL<br>
   <a href="https://github.com/ifrankie9/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/blob/master/Labs/Lab01.pdf">Lab 1, </a>
-  <a href="https://github.com/ifrankie9/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/tree/master/Demos/Mod01_Demos">Demo 1</a>
+  <a href="https://github.com/ifrankie9/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/tree/master/Demos/Mod01_Demos">Demo 1, </a>
   <a href="https://github.com/ifrankie9/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/blob/master/Exercises/Module1-Exercises.sql">Exercise 1</a></p>
  <p>Module 2: <b>Querying Tables with SELECT<br>
    <a href="https://github.com/ifrankie9/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/blob/master/Labs/Lab02.pdf">Lab 2, </a>
@@ -35,7 +35,7 @@
                 <a href="https://github.com/ifrankie9/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/tree/master/Demos/Mod09_Demos">Demo 9, </a><a href="https://github.com/ifrankie9/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/blob/master/Exercises/Module9-Exercises.sql">Exercise 9</a>
                 <p>Module 10: <b>Programming with Transact-SQL<br>
                   <a href="https://github.com/ifrankie9/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/blob/master/Labs/Lab10.pdf">Lab 10, </a>
-                  <a href="https://github.com/ifrankie9/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/tree/master/Demos/Mod10_Demos">Demo 10,</a><a href="https://github.com/ifrankie9/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/blob/master/Exercises/Module10-Exercises.sql">Exercise 10</a>
+                  <a href="https://github.com/ifrankie9/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/tree/master/Demos/Mod10_Demos">Demo 10, </a><a href="https://github.com/ifrankie9/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/blob/master/Exercises/Module10-Exercises.sql">Exercise 10</a>
                   <p>Module 11: <b>Error Handling and Transactions<br>
                     <a href="https://github.com/ifrankie9/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/blob/master/Labs/Lab11.pdf">Lab 11, </a>
                     <a href="https://github.com/ifrankie9/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/tree/master/Demos/Mod11_Demos">Demo 11, </a><a href="https://github.com/ifrankie9/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/blob/master/Exercises/Module11-Exercises.sql">Exercise 11</a></p>
