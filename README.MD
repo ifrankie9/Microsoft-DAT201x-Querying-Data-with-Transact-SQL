@@ -40,4 +40,4 @@
                     <a href="https://github.com/ifrankie9/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/blob/master/Labs/Lab11.pdf">Lab 11, </a>
                     <a href="https://github.com/ifrankie9/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/tree/master/Demos/Mod11_Demos">Demo 11, </a><a href="https://github.com/ifrankie9/Microsoft-DAT201x-Querying-Data-with-Transact-SQL/blob/master/Exercises/Module11-Exercises.sql">Exercise 11</a></p>
                     
-<p>Taking Course: 2018/04/23-2018/04/25</p>
+<p>Taking Course: 2018/04/25-2018/04/28</p>
