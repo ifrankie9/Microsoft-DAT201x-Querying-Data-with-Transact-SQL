@@ -7,9 +7,7 @@ WHERE ShippedDate IS NOT NULL
 
 
 SELECT CompanyName,
-
 IIF(Fax IS NULL,'modern','outdated') AS Status
-
 FROM Dbo.Suppliers
 
 
